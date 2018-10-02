@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Налоговый календарь</string>
+    <string name="title_home">Начало</string>
+    <string name="title_dashboard">Календарь</string>
+    <string name="title_notifications">Оповещения</string>
+    <string name="choose_time">Выберите время</string>
+    <string name="ready">Готово</string>
+
+</resources>
